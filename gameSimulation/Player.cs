@@ -71,8 +71,5 @@ namespace gameSimulation
                     + Wisdom;
         }
 
-
-
-
     }
 }
